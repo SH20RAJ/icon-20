@@ -1,8 +1,8 @@
-# icon20
+# icon-20
 
 ### Add CDN
 ```html
-<script src="https://cdn.jsdelivr.net/gh/SH20RAJ/icon20@main/icon20.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/SH20RAJ/icon-20@main/icon-20.js"></script>
 ```
 
 
