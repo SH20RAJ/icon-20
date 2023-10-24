@@ -9,6 +9,6 @@
 ### Usage
 
 ```html
-<icon-20 name="user"></icon-20>
+<icon-20 name="accessibility"></icon-20>
 <icon-20 name="heart" color="blue" fontsize="32px"></icon-20>
 ```
